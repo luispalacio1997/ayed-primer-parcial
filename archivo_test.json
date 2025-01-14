@@ -1,0 +1,9 @@
+{
+    "nombre": Luisito",
+    "edad": "25",
+    "hermanos": ["Juan", "Magali", "Gio", "Victoria"],
+    "padres": {"madre": "Nelly", "padre": "Luis"},
+    "gustos": {"bebidas": ["Fernet", "Vodka", "Chocolatada"],
+               "helados": ["dulce de leche", "mascarpone", "granizado"]}
+
+}
